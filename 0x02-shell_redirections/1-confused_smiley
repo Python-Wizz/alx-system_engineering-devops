@@ -1,2 +1,2 @@
-#!/bin/bash
-ech '"(Ôo)'\'
+i#!/bin/bash
+echo "\""(Ôo)'"
